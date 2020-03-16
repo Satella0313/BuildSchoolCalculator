@@ -33,7 +33,7 @@ namespace Mylibrary
             return x * y;
         }
     }
-    public class Division : Math
+    public class Divide : Math
     {
         public override double GetArea()
         {
