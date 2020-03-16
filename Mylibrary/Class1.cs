@@ -19,7 +19,7 @@ namespace Mylibrary
             return x + y;
         }
     }
-    public class Minus : Math
+    public class Less : Math
     {
         public override double GetArea()
         {
